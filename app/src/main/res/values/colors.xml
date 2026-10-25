@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0B0E14</color>
+    <color name="card_bg">#10141E</color>
+    <color name="card_stroke">#4F46E5</color>
+    <color name="primary_purple">#6366F1</color>
+    <color name="purple_button_dark">#131828</color>
+    <color name="purple_stroke">#4F46E5</color>
+    <color name="pill_bg">#131926</color>
+    <color name="pill_border">#2A324B</color>
+    <color name="green_indicator">#10B981</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="subtitle_gray">#8E95A5</color>
+    <color name="gallery_text">#A5B4FC</color>
+</resources>

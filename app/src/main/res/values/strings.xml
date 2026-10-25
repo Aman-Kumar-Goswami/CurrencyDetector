@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency Detector</string>
+    <string name="rupee_symbol">₹</string>
+    <string name="currency_detector_title">Currency Detector</string>
+    <string name="tagline_smart_fast_accurate">SMART • FAST • ACCURATE</string>
+    <string name="ai_ready">AI READY</string>
+    <string name="ai_analyzed">AI READY • ANALYZED</string>
+    <string name="settings">Settings</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="currency_image_preview">Currency Image Preview</string>
+    <string name="replay_voice">Replay voice response</string>
+    <string name="detected_currency_default">Not Detected</string>
+    <string name="confidence_high">High Confidence • Indian Rupee</string>
+</resources>
